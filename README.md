@@ -22,6 +22,8 @@ If you select View Products for Sale, the app list every available item: the ite
 If you select View Low Inventory, then it  list all items with an inventory count lower than five.
 If you select a Add to Inventory, the app display a prompt that will let the manager "add more" of any item currently in the store.
 If you select Add New Product, it allow the manager to add a completely new product to the store.
+![Bamazon_Manager Screen Shot](/images/Screen Shot 2018-03-19 at 5.18.59 PM.png
+)
 
 Bamazon_Manager Screen Shot: /Users/sumi/Desktop/Vscode/Bamazon/images/Screen Shot 2018-03-19 at 5.18.59 PM.png
 
